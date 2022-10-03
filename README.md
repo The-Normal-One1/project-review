@@ -8,9 +8,9 @@
 - CSS
 - Technologies used
 
-## Live Demo (not available)
+## Live Demo
 
-Click:[Here](https://the-normal-one1.github.io)
+Click: [Here](https://the-normal-one1.github.io)
 
 ## Getting Started
 
